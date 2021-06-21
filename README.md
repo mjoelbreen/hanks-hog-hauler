@@ -1,0 +1,2 @@
+# hanks-hog-hauler
+This mock app allows users to request the pickup of dead hogs. Users pick the location of the hog(s) to haul. If the location is within five miles of Hog Hauler Headquarters, the haul can happen. If the location of the haul is on a highway, users are not charged a fee as the company has a contract with the state to pick up hogs for a flat fee of $50 per hog. Otherwise, the user must pay a base fee of $25 plus $0.25 per pound. Hank's Hog Hauler also sells dead hogs to a butcher if the hog is in the right age range for $0.50 per pound.
